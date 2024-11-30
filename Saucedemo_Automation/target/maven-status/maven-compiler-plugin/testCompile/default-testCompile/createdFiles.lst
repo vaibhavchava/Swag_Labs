@@ -1,6 +1,7 @@
-StepDef\StepDefinitions.class
+StepDef\Test_Base.class
 Saucedemo_Automation\Saucedemo_Automation\Browsers.class
 Saucedemo_Automation\Saucedemo_Automation\Hooks.class
 Saucedemo_Automation\Saucedemo_Automation\Test_Runner.class
 Saucedemo_Automation\Saucedemo_Automation\Login_Page.class
 Saucedemo_Automation\Saucedemo_Automation\Utility.class
+StepDef\StepDefinitions.class

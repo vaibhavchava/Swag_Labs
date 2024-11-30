@@ -10,7 +10,7 @@ import io.cucumber.junit.*;
 tags = "@login",
 glue = {"StepDef"},
 plugin = {"pretty",
-		"html:target/cucumber-reports/reports.html"}
+		"html:target/cucumber-reports/reports.html", "json:target/report.json"}
 )
 //me.jvt.cucumber.report.PrettyReports:target/cucumber
 
